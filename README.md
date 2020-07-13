@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Vishrant Khanna
+### Hi there! 👋 I'm Vishrant Khanna.
 
 ### My Story
 
@@ -12,8 +10,8 @@ This passion carried me through my education at MRIU. Through IBMs' specially cr
 
 So, now, as I look to join the industry, this passion remains with me. There's certainly yet more to learn, yet more to secure, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
-Specialties
-➢Cybersecurity: Web Security & Data Security
+Specialties <br>
+➢Cybersecurity: Web Security & Data Security <br>
 ➢Languages: Python, Bash
 
 ### Professional Experience
@@ -29,10 +27,10 @@ Specialties
 - Social Media Head | VR|AR|MR
 - Team Lead, Manav Rachna International University | Google Online Marketing Challenge
 
-Catch up with me on LikenIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
+Catch up with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
 
 #### About Me
-- 🔭 I’m currently working on Web Application Security and building a [Cybersecuity blog](https://vishrantkhanna.com/).
+- 🔭 I’m currently working on Web Application Penetration Testing and building a [Cybersecuity blog](https://vishrantkhanna.com/).
 - 🌱 I’m currently learning Web Application Secuirty & Exploit Writing.
 - 👯 I’m looking to collaborate on producing new learning resources in cybersecuirty.
 - 🤔 I’m looking for help with cybersecuity certifications.
@@ -41,4 +39,4 @@ Catch up with me on LikenIn: [![Linkedin Badge](https://img.shields.io/badge/-Li
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 👟 Professional Computer Kicker | 📚 Making Cyber Security Education Affordable
 - ❤️ I love mentoring newbie infosec students.
-- 💬 Ping me if you are looking for mentorship, want to introduce your students to infomation security and, contributions on a project.
+- 💬 Ping me if you are looking for mentorship, want to introduce your students to infomation security, or looking for contributions on a project.
