@@ -16,16 +16,10 @@ Specialties <br>
 
 ### Professional Experience
 - Penetration Tester Intern | MyOperator
-- Senior Editor | Digital Embark
-- Co-Founder | Digital Embark
 - Undergraduate Student Researcher | Manav Rachna International University
 - Delegate | MIT India Initiative
-- Vice President | Brain Ciphers
 - Wireless and Network Security Engineer Intern | Research Cluster of Computing
 - Ethical Hacker Intern | Quest Global Technologies Ltd.
-- Head of Operations, India | VR|AR|MR
-- Social Media Head | VR|AR|MR
-- Team Lead, Manav Rachna International University | Google Online Marketing Challenge
 
 Catch up with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
 
