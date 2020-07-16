@@ -10,27 +10,16 @@ This passion carried me through my education at MRIU. Through IBMs' specially cr
 
 So, now, as I look to join the industry, this passion remains with me. There's certainly yet more to learn, yet more to secure, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
-Specialties <br>
-➢Cybersecurity: Web Security & Data Security <br>
-➢Languages: Python, Bash
-
-### Professional Experience
-- Penetration Tester Intern | MyOperator
-- Undergraduate Student Researcher | Manav Rachna International University
-- Delegate | MIT India Initiative
-- Wireless and Network Security Engineer Intern | Research Cluster of Computing
-- Ethical Hacker Intern | Quest Global Technologies Ltd.
-
-Catch up with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
+Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
 
 #### About Me
-- 🔭 I’m currently working on Web Application Penetration Testing and building a [Cybersecuity blog](https://vishrantkhanna.com/).
+- 🔭 I’m currently working on Penetration Testing.
 - 🌱 I’m currently learning Web Application Secuirty & Exploit Writing.
 - 👯 I’m looking to collaborate on producing new learning resources in cybersecuirty.
 - 🤔 I’m looking for help with cybersecuity certifications.
 - 💬 Ask me about Information Security, Startups and Blogging.
 - 📫 How to reach me: PM on LinkedIn 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 👟 Professional Computer Kicker | 📚 Making Cyber Security Education Affordable
+- ⚡ Fun fact: 📚 Making Cyber Security Education Affordable
 - ❤️ I love mentoring newbie infosec students.
 - 💬 Ping me if you are looking for mentorship, want to introduce your students to infomation security, or looking for contributions on a project.
