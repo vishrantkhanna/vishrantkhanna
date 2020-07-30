@@ -11,7 +11,7 @@ Information Security Fundamentals <br>
 Digital Forensics <br>
 
 Certifications: <br>
-Ethical Hacking by Indian Institute of Technology & Ministry of Human Resource Development, Government of India
+Ethical Hacking by Indian Institute of Technology, Kharagpur
 
 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
 
