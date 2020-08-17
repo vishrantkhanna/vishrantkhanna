@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Vishrant Khanna.
 
-A recent graduate majoring in Computer Science with a specialization in Cyber Security and Digital Forensics.
+A recent graduate majoring in Computer Science, specializing in Cyber Security and Digital Forensics.
 
 Relevant Courses: <br>
 Application Security <br>
@@ -17,12 +17,12 @@ Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?
 
 #### About Me
 - 🔭 I’m currently working on Penetration Testing.
-- 🌱 I’m currently learning Web Application Secuirty & Exploit Writing.
-- 👯 I’m looking to collaborate on producing new learning resources in cybersecuirty.
-- 🤔 I’m looking for help with cybersecuity certifications.
+- 🌱 I’m currently learning Web Application Security & Exploit Writing.
+- 👯 I’m looking to collaborate on producing new learning resources in cyber security.
+- 🤔 I’m looking for help with cyber security certifications.
 - 💬 Ask me about Information Security, Startups and Blogging.
 - 📫 How to reach me: PM on LinkedIn 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 📚 Making Cyber Security Education Affordable
 - ❤️ I love mentoring newbie infosec students.
-- 💬 Ping me if you are looking for mentorship, want to introduce your students to infomation security, or looking for contributions on a project.
+- 💬 Ping me if you are looking for mentorship, want to introduce your students to information security, or looking for contributions on a project or research.
