@@ -5,19 +5,19 @@ I am completing my Masters in Cyber Security Management at National Forensic Sci
 After I graduate, my dream is to work in tech with the worlds greatest innovators and push the human race forward.
 
 Relevant Courses: <br>
-Information Security Audit and Monitoring <br>
-Information Security Fundamentals <br>
-Cyber Law and Regulations <br>
-Vulnerability Assessment <br>
-Cyber Risk Management <br>
-Application Security <br>
-Digital Forensics <br>
-Malware Analysis <br>
-System Security <br>
-Data Security <br>
+- Information Security Audit and Monitoring <br>
+- Information Security Fundamentals <br>
+- Cyber Law and Regulations <br>
+- Vulnerability Assessment <br>
+- Cyber Risk Management <br>
+- Application Security <br>
+- Digital Forensics <br>
+- Malware Analysis <br>
+- System Security <br>
+- Data Security <br>
 
 Certifications: <br>
-Ethical Hacking by Indian Institute of Technology, Kharagpur
+- Ethical Hacking by Indian Institute of Technology, Kharagpur
 
 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vishrantkhanna/)
 
