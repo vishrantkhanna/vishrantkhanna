@@ -1,5 +1,5 @@
 # 💫 About Me:
-➡️ Cybersecurity Engineer Helping Secure People and Organizations on the Internet.<br>➡️ Certifications: CompTIA Security+, ISC2 Certified in Cybersecurity
+➡️ Cybersecurity Engineer Helping Secure People and Organizations on the Internet.<br>➡️ **Certifications:** CompTIA Security+, ISC2 Certified in Cybersecurity
 
 
 ## 🌐 Socials:
